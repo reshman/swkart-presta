@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>EN - Ecommerce blog by PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/en/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/en</link>
+	<description></description>
+	<lastBuildDate>Thu, 05 Nov 2015 13:48:32 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>Ecommerce 101: Payments in a Tweet</title>
+		<link>https://www.prestashop.com/blog/en/ecommerce-101-payments-tweet/</link>
+		<comments>https://www.prestashop.com/blog/en/ecommerce-101-payments-tweet/#comments</comments>
+		<pubDate>Thu, 05 Nov 2015 13:30:46 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20849</guid>
+		<description><![CDATA[<p>Picking a payment provider is one of the most important tasks for an online merchant, but it can also be one of the most difficult. We asked some of our payment solution partners to sum up the key benefit of their solution in a tweet. We hope this makes it easier to identify which solution [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/ecommerce-101-payments-tweet/">Ecommerce 101: Payments in a Tweet</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Picking a payment provider is one of the most important tasks for an online merchant, but it can also be one of the most difficult. We asked some of our payment solution partners to sum up the key benefit of their solution in a tweet. We hope this makes it easier to identify which solution is right for your business.<br />
+<span id="more-20849"></span></p>
+<div style="margin: 20px 0; padding: 26px 20px; background-color: #f5f5f5;"><img class="alignleft size-full wp-image-20856" alt="sagepay" src="https://www.prestashop.com/blog/en/files/2015/10/sagepay.jpg" width="57" height="57" /> Looking to grow your eCommerce site? Accept payments online using the @SagePay_UK online payment gateway and build your business – now!<br />
+- <a href="http://addons.prestashop.com/en/payments-gateways-prestashop-modules/3610-sagepay-direct.html" target="_blank">SagePay</a>     <a class="twitter-share-button" href="https://www.twitter.com/intent/tweet?text=Looking%20to%20grow%20your%20eCommerce%20site%3F%20Accept%20payments%20online%20using%20the%20%40SagePay_UK%20online%20payment%20gateway%20and%20build%20your%20business%20%E2%80%93%20now!&amp;via=PrestaShop" data-size="large">Tweet_Button</a></div>
+<div style="margin: 20px 0; padding: 26px 20px; background-color: #f5f5f5;"><img class="alignright size-full wp-image-20857" alt="simplify-commerce" src="https://www.prestashop.com/blog/en/files/2015/10/simplify-commerce.png" width="57" height="57" /> We make it simple to accept payments on your @PrestaShop store. Try the @simplifycom free addon: <a href="http://ow.ly/KuzV6" target="_blank">http://ow.ly/KuzV6</a><br />
+- <a href="http://addons.prestashop.com/en/payments-gateways-prestashop-modules/17104-simplifycommerce.html" target="_blank">Simplify Commerce</a>     <a class="twitter-share-button" href="https://www.twitter.com/intent/tweet?text=We%20make%20it%20simple%20to%20accept%20payments%20on%20your%20%40PrestaShop%20store.%20Try%20the%20%40simplifycom%20free%20addon&amp;via=PrestaShop" data-size="large">Tweet_Button</a></div>
+<div style="margin: 20px 0; padding: 26px 20px; background-color: #f5f5f5;"><img class="size-full wp-image-20852 alignleft" alt="desjardins" src="https://www.prestashop.com/blog/en/files/2015/10/desjardins.png" width="57" height="57" /> Improve your online shopping experience by offering a turnkey payment solution. @DesjardinsGroup<br />
+- <a href="http://addons.prestashop.com/en/payments-gateways-prestashop-modules/14656-desjardins.html" target="_blank">Desjardins</a>     <a class="twitter-share-button" href="https://www.twitter.com/intent/tweet?text=Improve%20your%20online%20shopping%20experience%20by%20offering%20a%20turnkey%20payment%20solution.%20%40DesjardinsGroup&amp;via=PrestaShop" data-size="large">Tweet_Button</a></div>
+<div style="margin: 20px 0; padding: 26px 20px; background-color: #f5f5f5;"><img class="size-full wp-image-20854 alignright" alt="paymill" src="https://www.prestashop.com/blog/en/files/2015/10/paymill.jpg" width="57" height="57" /> Reduce your shopping cart abandonment rate by 13% by offering up to 100 currencies in your checkout with PAYMILL <a href="http://bit.ly/1DwvaGd" target="_blank">http://bit.ly/1DwvaGd</a><br />
+- <a href="http://addons.prestashop.com/en/payments-gateways-prestashop-modules/17640-pigmbhpaymill.html" target="_blank">PAYMILL</a>     <a class="twitter-share-button" href="https://www.twitter.com/intent/tweet?text=Reduce%20your%20shopping%20cart%20abandonment%20rate%20by%2013%25%20by%20offering%20up%20to%20100%20currencies%20in%20your%20checkout%20with%20PAYMILL&amp;via=PrestaShop" data-size="large">Tweet_Button</a></div>
+<div style="margin: 20px 0; padding: 26px 20px; background-color: #f5f5f5;"><img class="size-full wp-image-20853 alignleft" alt="hipay" src="https://www.prestashop.com/blog/en/files/2015/10/hipay.jpg" width="57" height="57" /> Grow your international business with adapted payment options! Start by using @Hipay for your local and international payments.<br />
+- <a href="http://addons.prestashop.com/en/payments-gateways-prestashop-modules/1746-hipay.html" target="_blank">HiPay</a>     <a class="twitter-share-button" href="https://www.twitter.com/intent/tweet?text=Grow%20your%20international%20business%20with%20adapted%20payment%20options!%20Start%20by%20using%20%40Hipay%20for%20your%20local%20and%20international%20payments.&amp;via=PrestaShop" data-size="large">Tweet_Button</a></div>
+<div style="margin: 20px 0; padding: 26px 20px; background-color: #f5f5f5;"><img class="size-full wp-image-20858 alignright" alt="sofort" src="https://www.prestashop.com/blog/en/files/2015/10/sofort.png" width="60" height="60" /> Be smart! Reduce costs by using e-payment via SOFORT banking for your web shop! <a href="http://bit.ly/1gYSIJQ" target="_blank">http://bit.ly/1gYSIJQ</a><br />
+- <a href="http://addons.prestashop.com/en/payments-gateways-prestashop-modules/9176-sofortbanking.html" target="_blank">SOFORT</a>     <a class="twitter-share-button" href="https://www.twitter.com/intent/tweet?text=Be%20smart!%20Reduce%20costs%20by%20using%20e-payment%20via%20SOFORT%20banking%20for%20your%20web%20shop!&amp;via=PrestaShop" data-size="large">Tweet_Button</a></div>
+<div style="margin: 20px 0; padding: 26px 20px; background-color: #f5f5f5;"><img class="size-full wp-image-20855 alignleft" alt="payplug" src="https://www.prestashop.com/blog/en/files/2015/10/payplug.jpg" width="57" height="57" /> Integrate your payment solution and start accepting online payments in 1 minute with @PayPlug<br />
+- <a href="http://addons.prestashop.com/en/payments-gateways-prestashop-modules/8795-online-payment-made-simple-payplug.html" target="_blank">PayPlug</a>     <a class="twitter-share-button" href="https://www.twitter.com/intent/tweet?text=Integrate%20your%20payment%20solution%20and%20start%20accepting%20online%20payments%20in%201%20minute%20with%20%40PayPlug&amp;via=PrestaShop" data-size="large">Tweet_Button</a></div>
+<hr style="margin-bottom: 20px;" align="left" width="20%" />
+<p>Head to PrestaShop Addons to learn more about the <a href="http://addons.prestashop.com/en/4-payments-gateways-prestashop-modules" target="_blank">payments processors and gateways</a> available for your region. Or simply tweet your questions to our partners!</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/ecommerce-101-payments-tweet/">Ecommerce 101: Payments in a Tweet</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/ecommerce-101-payments-tweet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Black Friday and Cyber Monday are coming up fast</title>
+		<link>https://www.prestashop.com/blog/en/black-friday-cyber-monday-coming-fast/</link>
+		<comments>https://www.prestashop.com/blog/en/black-friday-cyber-monday-coming-fast/#comments</comments>
+		<pubDate>Tue, 03 Nov 2015 09:22:58 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20863</guid>
+		<description><![CDATA[<p>Black Friday and Cyber Monday are coming up fast. We&#8217;ve put together a few stock management and merchandising tips to make sure you get the most out of the big weekend. Stock up Before you do anything else, stop and check your inventory! There&#8217;s nothing worse than running out of bestselling products in the middle [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/black-friday-cyber-monday-coming-fast/">Black Friday and Cyber Monday are coming up fast</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Black Friday and Cyber Monday are coming up fast. We&#8217;ve put together a few stock management and merchandising tips to make sure you get the most out of the big weekend.<br />
+<span id="more-20863"></span></p>
+<h2 style="color: #846060;">Stock up</h2>
+<p>Before you do anything else, stop and check your inventory! There&#8217;s nothing worse than running out of bestselling products in the middle of the holiday heyday. If you sell through marketplaces like Amazon as well, don&#8217;t underestimate how much you&#8217;re likely to sell. This is probably the one time when overstocking is not a bad thing.</p>
+<p>When considering what to order and how much, ask yourself the following questions:</p>
+<ul style="padding-left:30px">
+<li>What sold well last year?</li>
+<li>What did you run out of?</li>
+<li>What did you hope to sell more of?</li>
+</ul>
+<h2 style="color: #846060;">Get ready for the rush</h2>
+<p>Next, think about traffic and capacity. Is your site optimized to handle the holiday rush? Is your stock management system up to date and accurate—in other words, do you know how many products you actually have?</p>
+<p>Once you&#8217;ve stocked up and made sure your site is ready to handle the holiday rush, double check your fulfillment process to be sure you meet shipping dates and get gifts to customers on time. Post shipping dates clearly on your website so there&#8217;s no confusion.</p>
+<p>Finally, don&#8217;t skimp on security. This is definitely not the time for a security breach, with the increase of customers sharing their private information as they make purchases on your site. It&#8217;s a good idea to let your payment processor know you expect increased visits.</p>
+<h2 style="color: #846060;">Stand out from the crowd</h2>
+<p>Everyone is competing for attention at the holidays, and with good reason: the holiday season can bring in up to 30% of revenue for online merchants, in some cases up to 50%! With so many stores counting on great sales, customers are going to be facing an avalanche of promotions. Make sure you stand out from the crowd with <strong>highly-targeted, unique</strong> content.</p>
+<p>Everyone will be advertising their sales and promotions in email subject titles, so consider another approach, like humor, to stand out. If that&#8217;s not your style, try crafting your titles to speak to your target segments, especially top customers. Put all the data you&#8217;ve collected over the last year to work for you to personalize emails and aggressively retarget key customer segments.</p>
+<h2 style="color: #846060;">Guide your customers to the perfect gift</h2>
+<p>Customers will be cramming as much shopping in on Black Friday and Cyber Monday as they can. Make it easy for them to find what they need on your site by putting together gift guides that address different customer types, like moms and dads, or product categories, like stocking stuffers or winter duds.</p>
+<h2 style="color: #846060;">Throw in free shipping</h2>
+<p>Customers love a good deal this time of the year, but they love free shipping even more. In fact, shipping fees contribute more than anything else to abandoned carts. This might seem like a big investment for small businesses, but the fact is, shipping fees could be what turn customers away from your site and to the competition.</p>
+<p>To take some of the risk out of offering free shipping, ask yourself a few questions to optimize the shipping process:</p>
+<ul style="padding-left:30px">
+<li>How many customers didn&#8217;t receive their order on time?</li>
+<li>How did our partners perform?</li>
+<li>What was the most popular shipping option?</li>
+<li>Were my shipping cut-off dates accurate enough for domestic and international customers?</li>
+<li>What were my fulfilment and shipping costs?</li>
+</ul>
+<h2 style="color: #846060;">Don&#8217;t forget your &#8220;404 Page Not Found&#8221; and &#8220;No Results Found&#8221; pages</h2>
+<p>Customer searches may turn up negative for a variety reasons, from spelling errors to different regional names for the same product. Don&#8217;t lose customers by dead-ending them at an error page. Optimize these pages by suggesting similar products or displaying a page of bestsellers.</p>
+<h2 style="color: #846060;">Take our Black Friday/Cyber Monday survey!</h2>
+<p>Black Friday and Cyber Monday generate incredible sales in the United States, but their impact in other countries varies: do merchants practice Black Friday and Cyber Monday sales in Europe? Do South American customers expect extreme deals at this time of year? What about Asia?</p>
+<p>To understand how these key dates impact PrestaShop merchants not only in the US but around the world, we&#8217;ve put together a survey and we&#8217;d love it if you&#8217;d participate! We&#8217;ll share the results in an update to this article and on social media.</p>
+<p>What are you doing to prepare for Black Friday and Cyber Monday? Let us know in the comments!</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/black-friday-cyber-monday-coming-fast/">Black Friday and Cyber Monday are coming up fast</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/black-friday-cyber-monday-coming-fast/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 merchandising musts to boost your holiday sales</title>
+		<link>https://www.prestashop.com/blog/en/5-merchandising-musts-boost-holiday-sales/</link>
+		<comments>https://www.prestashop.com/blog/en/5-merchandising-musts-boost-holiday-sales/#comments</comments>
+		<pubDate>Mon, 02 Nov 2015 13:30:55 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20839</guid>
+		<description><![CDATA[<p>As we settle into the nice chill that fall brings, it’s also game time for all SMB’s looking to win this holiday season. As crates of inventory start filling up your warehouse, it’s time to make your website more festive. Today we share 5 ways to spruce up your website. Update all or just a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/5-merchandising-musts-boost-holiday-sales/">5 merchandising musts to boost your holiday sales</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>As we settle into the nice chill that fall brings, it’s also game time for all SMB’s looking to win this holiday season. As crates of inventory start filling up your warehouse, it’s time to make your website more festive.</p>
+<p>Today we share 5 ways to spruce up your website. Update all or just a couple of these areas, and you’ll be set to go!<br />
+<span id="more-20839"></span></p>
+<h2 style="color: #95c938">1. Home page design</h2>
+<p>Update your home page with festive design elements. If you’re using the default template, consider adding a few images that promote your holiday offers to the slider. If you’re really into the holiday spirit (and have extra time and resources), you can completely redesign your homepage for the holidays. From changing the color scheme of your website to implementing new holiday-specific elements to your website, let your creativity drive your design &#8212; just be sure your brand in reflected in the design.</p>
+<h2 style="color: #95c938">2. Display bestsellers</h2>
+<p>After you’ve added some tinsel to your shop, it’s time to improve the user experience. Start by displaying your bestsellers and your holiday favorites. Highlight them on your homepage to drive additional traffic to the products. Featured products help shoppers find exactly what they’re looking for.</p>
+<p>To further improve the user experience, segment your products into easy, shoppable categories. Start with a link to all products featured in “Cyber Monday” deals. Next, create gift guides for the customers you target. Family members are a great place to start; other ideas include co-workers and Secret Santas. Finally, consider creating price buckets for customers shopping on a budget. Group similarly priced items into the same category to make shopping even easier. Make them festive with holiday themes! For more ideas on <a href="https://www.prestashop.com/blog/en/4-awesome-ideas-valentines-day-gift-guides/">gift guides, check out our Valentine’s Day ideas</a>, which can be easily adapted for the holidays.</p>
+<h2 style="color: #95c938">3. Advertise special offers</h2>
+<p>Once you finalize your holiday <a href="https://www.prestashop.com/blog/en/5-tips-successful-sales-campaign/">sales campaigns</a>, it’s important to promote them to your customers.<br />
+If you guarantee shipping for orders place by a specific date, be sure to highlight that as well.</p>
+<p>Prime spots to display your sales on your website include the homepage, category pages, header and within the shopping cart. For more ways to promote your <a href="https://www.prestashop.com/blog/en/a-quick-guide-to-promoting-black-friday-and-cyber-monday-sales/">Black Friday / Cyber Monday sale</a>, check out our tips from last year.</p>
+<h2 style="color: #95c938">4. Product pages</h2>
+<p>Your product pages play a key role in converting shoppers. They should clearly and accurately reflect your products both visually and in text descriptions. Check out our <a href="https://www.prestashop.com/blog/en/diy-ecommerce-guide-to-gorgeous-product-photography/">DIY photography guide</a> for more on taking great photos.</p>
+<p>Next, make sure the text on your homepage helps convert customers. Include product titles that clearly describe your products. Be sure to use keywords that customers are searching for. If there are many ways to describe your products (e.g. Tee, T-Shirt, Tee Shirt), include each instance as a product tag so they can easily be indexed by your on-site search. For more examples of great product pages check out these <a href="https://www.prestashop.com/blog/en/5-examples-of-ecommerce-product-pages-that-convert/">PrestaShop Merchants</a>.</p>
+<p>Last but not least, make sure your prices are clearly listed. With so many people to shop for, customers will be shopping around for the best deals. Display your price clearly so there are no questions or confusion.</p>
+<h2 style="color: #95c938">5. <a style="color: #95c38;font-family: 'Roboto Condensed',Tahoma,Verdana,sans-serif;font-size: 28px;text-decoration: underline" href="http://addons.prestashop.com/en/search?search_query=cross+selling" target="_blank">Cross selling</a> &amp; <a style="color: #95c38;font-family: 'Roboto Condensed',Tahoma,Verdana,sans-serif;font-size: 28px;text-decoration: underline" href="http://addons.prestashop.com/en/search?search_query=up-sell" target="_blank">up-selling</a></h2>
+<p>Once you’ve perfected your product pages, consider improving your average order value (AOV). The most common ways include cross selling and upselling your products. When you cross-sell, you offer additional products that complement your customers’ current selection: if you’re selling a hand cream, display the foot cream from the same collection. Upselling is a technique used to get customers to upgrade their selection: if you created a holiday package that includes the hand cream, convince customers to upgrade to the entire holiday package instead of purchasing an individual item.</p>
+<p>Get more ideas for <a href="https://www.prestashop.com/blog/en/how-to-increase-ecommerce-cart-value/">increasing your ecommerce cart value</a> with this article.</p>
+<h2 style="color: #95c938">Next Steps:</h2>
+<p>Once you’ve finished merchandising your shop, be sure you go back and test all the new pages and links you’ve created. Here’s a mini checklist of the audit you should perform.</p>
+<ul style="padding-left: 30px">
+<li>Remove out of stock products, so customers aren’t disappointed.</li>
+<li>Test all links in your navigation bar.</li>
+<li>Make sure all your new product categories and gift guides are easily accessible from the homepage.</li>
+<li>Click through several products to make sure your cross / up selling features work.</li>
+<li>Complete a test order to make sure your changes didn’t introduce new bugs.</li>
+<li>If you’ve <a href="https://www.prestashop.com/blog/en/quick-easy-settings-speed-prestashop-store/">turned off caching</a> while you were designing your site, be sure to turn those features back on.</li>
+</ul>
+<p>Are you ready for the holiday season? Share your tips and advice in the comments below!</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/5-merchandising-musts-boost-holiday-sales/">5 merchandising musts to boost your holiday sales</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/5-merchandising-musts-boost-holiday-sales/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The beginner’s guide to sales forecasting for small businesses</title>
+		<link>https://www.prestashop.com/blog/en/the-beginners-guide-to-sales-forecasting-for-small-businesses/</link>
+		<comments>https://www.prestashop.com/blog/en/the-beginners-guide-to-sales-forecasting-for-small-businesses/#comments</comments>
+		<pubDate>Thu, 29 Oct 2015 13:30:31 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20813</guid>
+		<description><![CDATA[<p>Business Dictionary defines forecasting as a planning tool that helps management in its attempts to cope with the uncertainty of the future, relying mainly on past and present data, and trend analysis. In other words: predicting the future. For merchants, of course, this boils down to predicting sales. Many small businesses don’t think investing in [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/the-beginners-guide-to-sales-forecasting-for-small-businesses/">The beginner’s guide to sales forecasting for small businesses</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.businessdictionary.com/definition/forecasting.html#ixzz3maqCFo2f" target="_blank">Business Dictionary</a> defines <strong>forecasting</strong> as a planning tool that helps management in its attempts to cope with the uncertainty of the future, relying mainly on past and present data, and trend analysis. In other words: predicting the future. For merchants, of course, this boils down to predicting sales.<br />
+Many small businesses don’t think investing in forecasting early on is essential, but in fact, it can be a big help in determining performance, and predicting and maintaining future growth.<br />
+<span id="more-20813"></span><br />
+If you’ve ever looked at last month’s revenue to gauge how much you’ll make the next month, then you’ve already started forecasting. In this blog article, we’ll walk you through the basic forecasting process and suggest resources for going further with more in-depth forecasting. How much you can forecast is ultimately determined by the amount of data you have, so if you’ve been in business for 3 years, your sales forecast will be more accurate and comprehensive than someone who has been in business for 3 months.</p>
+<h2 style="color:#251b5b">No History Forecast</h2>
+<p>Most businesses starting out will establish this type of forecast. This is a critical step in building a <a href="https://www.prestashop.com/blog/en/how-to-create-an-online-store-10-steps-to-write-your-business-plan/">business plan</a> and an important factor that potential investors will consider. With no data, this forecast is pretty much just a guess. But you can use relevant information to make an educated guess. Research your industry and similar companies you’d like to emulate. Understanding how others in your field have performed can help you gauge how your own business will perform. Other considerations include: </p>
+<ul style="padding-left: 30px">
+<li>Your track record (How successful were your previous ventures?) </li>
+<li>Partner’s success rate (Are you bringing someone on board with a better success rate?) </li>
+<li>Product Demand (Compare purchasing behavior and purchasing funnel) </li>
+</ul>
+<p>Your local chamber of commerce and other small business organizations can help you with your projection based on their experience with similar companies. The more research you have, the more accurate your predictions will be. </p>
+<h2 style="color:#251b5b">1 Month History Forecast</h2>
+<p>Once you’ve made your first month’s sales, it’s easy to guess what the next month will look like.  Barring any major fluke events, this method will give you a ballpark sales figure. Unfortunately, it’s not always a very reliable method. An obvious example is the holiday season: if you make $1500 in sales during the holiday season, you can’t reasonably expect to maintain the same level of sales in the months after; the holidays are an unusual event in the ecommerce sales year that tend to show increased sales. So remember, this forecast can give you a general idea of sales, but you’ll need to take context into account.</p>
+<h2 style="color:#251b5b">3-Month History Forecast</h2>
+<p>Collecting data for several months will give you a more accurate forecast by allowing you to average your sales across this period. You’ll also have enough data to start seeing trends. Here’s a short video on creating a <a href="https://www.youtube.com/watch?v=TFxm-1smXjM" target="_blank">trendline in Excel</a>. Whether you have been experiencing an increase or decrease in sales, it helps to plot your sales on a graph to really “see” where they’re going.</p>
+<h2 style="color:#251b5b">1-Year History Forecast</h2>
+<p>If you continue to plot your sales throughout the year, you’ll start to see a clearer sales trajectory. However, you might also notice clear rises and drops in sales across different seasons. This is mostly due to high sales seasons around the holidays and the lack of sales during slow seasons like summer. In forecasting, this is called seasonality. To forecast next quarter’s sales, calculate the annual average and sales averages for each of the quarters. Now divide each quarter’s sales by the average.  Next, estimate the amount you expect to make the following year. Take that prediction and multiply it by the effect seasonality plays on your business. The result is the estimated quarterly sales.</p>
+<p>See below for an example using 11.8% annual growth. </p>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/10/tab-guide-en.png" alt="tab-guide-en" width="479" height="233" class="aligncenter size-full wp-image-20815" /></p>
+<p>For another approach, check out this <a href="http://www.forbes.com/sites/billconerly/2014/12/17/how-to-adjust-your-business-data-for-seasonality/" target="_blank">Forbes’</a> how to article.</p>
+<h2>Multi-year History Forecasting</h2>
+<p>Once you collect data across multiple years, you’ll see that you no longer have to estimate the following year’s growth. You’ll be able to solve for that using previous years’ numbers, essentially removing almost the guesswork in your forecast. Once you accumulate that data, we recommend creating an excel spreadsheet with all your sales information. Then use built in functions to create a table that will automatically provide sales information. We suggest reading this article on <a href="http://www.exceluser.com/excel_dashboards/seasonality-sales.htm" target="_blank">creating a rolling forecast of seasonal sales in Excel</a>. Again, it will require that you have extensive data to feed into the spreadsheet. Once you do, you’ll have a pretty accurate projection for next month’s sales.</p>
+<h2 style="color:#251b5b">Why Small Businesses Should Forecast</h2>
+<p>If you’re just starting out, forecasting sales is a critical step in putting together your business plan. Once you’ve been in business for some time, it’s forecasting is useful to predict sales. However, forecasting can be great tool for many other business functions: </p>
+<ul style="padding-left: 30px">
+<li>Forecasting expenses</li>
+<li>Inventory reordering </li>
+<li>Product performance (new products)</li>
+<li>Evaluate new marketing efforts </li>
+<li>Revenue forecast (Sales &#8211; expenses)</li>
+</ul>
+<h2 style="color:#251b5b">Flawed Forecasts</h2>
+<p>Keep in mind that with any predictions, there are some underlying assumptions you may take for granted. Forecasts do not account for extenuating circumstances like natural disasters or any crashes in the overall market or even your industry. Keep in mind that forecasts provide numbers; it’s up to you to interpret the information correctly. </p>
+<p>Start forecasting your holidays sales today. Then surpass your sales projections by checking out these <a href="https://www.prestashop.com/blog/en/7_ways_to_boost_your_christmas_sales/">7 ways to boost Christmas Sales</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/the-beginners-guide-to-sales-forecasting-for-small-businesses/">The beginner’s guide to sales forecasting for small businesses</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/the-beginners-guide-to-sales-forecasting-for-small-businesses/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Shipping deadlines for packages</title>
+		<link>https://www.prestashop.com/blog/en/shipping-deadlines-packages/</link>
+		<comments>https://www.prestashop.com/blog/en/shipping-deadlines-packages/#comments</comments>
+		<pubDate>Mon, 26 Oct 2015 13:30:59 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20827</guid>
+		<description><![CDATA[<p>The holiday season brings with it some of the year’s most pleasant opportunities for celebration: snow days, if you’re lucky, and time off to spend with friends and family. This is also the time most businesses make most of their sales. From trinkets to lavish gifts, shoppers are in the mood to buy gifts. Online [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/shipping-deadlines-packages/">Shipping deadlines for packages</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The holiday season brings with it some of the year’s most pleasant opportunities for celebration: snow days, if you’re lucky, and time off to spend with friends and family. This is also the time most businesses make most of their sales. From trinkets to lavish gifts, shoppers are in the mood to buy gifts. Online retailers face the annual challenge of delivering goods in time for the holidays. As part of our 2015 holiday guide, we’re helping you succeed this season with shipping deadlines from 3 of the top US carriers.<br />
+<span id="more-20827"></span><br />
+The mad dash for holiday gifts generally happens during and after Black Friday. With so many great deals, it’s hard to pass up the opportunity to save.  If you’re guaranteeing delivery by the holidays&#8211; Christmas to be exact&#8211;it’s important to note the shipping cutoff dates. Packages shipped after these dates will unfortunately&#8211;and to the disappointment of your customers&#8211;arrive after the holidays. </p>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/10/calendar.png" alt="calendar" width="625" height="428" class="aligncenter size-full wp-image-20831" /></p>
+<p>When you’re marketing your sales and delivery guarantees, be sure to consider the amount of time it will take for you to process the increased number of orders. Consider enlisting additional help or simply factor in more processing time.</p>
+<h2 style="color:#c33d3a">Shipping Speeds and Deadlines</h2>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/10/shipping-speed-deadlines.png" alt="shipping-speed-deadlines" width="464" height="433" class="aligncenter size-full wp-image-20829" /></p>
+<p><em>*Trademarks: All trademarks and registered trademarks are the property of their respective owners.</em></p>
+<h2 style="color:#c33d3a">Delays</h2>
+<p>Regardless of which shipping provider you select, there’s <a href="http://www.bloomberg.com/news/articles/2013-12-27/ups-shipping-delays-show-perils-of-stores-overpromising" target="_blank">always a chance your package</a> will be delayed. From snowstorms to misplaced packages, it’s unavoidable and can happen to anyone. Take matters into your own hands by shipping as early as you can. This way you’ll still have time to expedite another package to your customer should any unforeseen problems arise. </p>
+<p>If you really can’t get your products shipped early you’ll be relying on your carrier’s promise to delivery the packages on time. In the event your package isn’t delivered on time, you can file a claim to get a refund on your shiping. To automate this process, consider adding <a href="http://addons.prestashop.com/en/shipping-logistics-delivery-prestashop-modules/19096-71lbs-fedex-ups-shipping-refunds.html" target="_blank">71 lbs’ shipping refunds module</a> to your shop &#8211; it’s free to install and you will only be billed for 50% of the claims they win. </p>
+<h2 style="color:#c33d3a">International Packages</h2>
+<p>Ship early. The only thing certain about international shipping is that nothing is certain! Each country has a own unique process, be it for deliveries to US embassies and military bases or residences. Every international package must pass customs, regardless of who is moving it. Missing paperwork, outstanding taxes and fees, flags for full inspections or even misplaced packages can cause delays even your shipping carrier can’t anticipate. </p>
+<p>After the package has successfully passed customs, it is either passed to a local shipping carrier or the local offices of your domestic carrier. If it gets passed along to a local carrier, keep in mind that you may not receive additional tracking information. </p>
+<h2 style="color:#c33d3a">Final Thoughts</h2>
+<p>Planning your shipping strategy plays a key role in your holiday success. Keep customers happy by giving them plenty of time to shop for gifts and receive them in time for the holidays. For a detailed description of each carrier’s shipping schedule, please refer to their holiday schedules listed below: </p>
+<p>USPS: <a href="https://www.usps.com/holiday/holiday-shipping-dates.htm" target="_blank">https://www.usps.com/holiday/holiday-shipping-dates.htm</a><br />
+UPS: <a href="http://compass.ups.com/ups-holiday-calendar/" target="_blank">http://compass.ups.com/ups-holiday-calendar/</a><br />
+FedEx: <a href="http://www.fedex.com/us/holiday/last-days-to-ship.html" target="_blank">http://www.fedex.com/us/holiday/last-days-to-ship.html</a></p>
+<p>For additional tips and advice on maximizing your shop’s sales, operations and more this holiday season, <a href="https://www.prestashop.com/en/ecommerce-holiday-guide">download our free 2015 Holiday Guide</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/shipping-deadlines-packages/">Shipping deadlines for packages</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/shipping-deadlines-packages/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Store audit – 6 tips to optimize your sales</title>
+		<link>https://www.prestashop.com/blog/en/store-audit-6-tips-optimize-sales/</link>
+		<comments>https://www.prestashop.com/blog/en/store-audit-6-tips-optimize-sales/#comments</comments>
+		<pubDate>Mon, 26 Oct 2015 13:30:46 +0000</pubDate>
+		<dc:creator><![CDATA[Cécile Dubouis]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20788</guid>
+		<description><![CDATA[<p>How can you optimize navigation and motivate more visitors to make purchases on your site? Product datasheets, referencing tags, product filters, favicon, payment are a few places to start. This week, learn all you need to know with our audit of DimplesandDandelions, a British online boutique offering adorable, affordable toys! 3 tips to customize your [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/store-audit-6-tips-optimize-sales/">Store audit – 6 tips to optimize your sales</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>How can you optimize navigation and motivate more visitors to make purchases on your site? Product datasheets, referencing tags, product filters, favicon, payment are a few places to start. This week, learn all you need to know with our audit of <a href="http://www.dimplesanddandelions.co.uk/" target="_blank">DimplesandDandelions</a>, a British online boutique offering adorable, affordable toys!<br />
+<span id="more-20788"></span></p>
+<h2 style="color:#f05881">3 tips to customize your store and optimize navigation</h2>
+<h4 style="color:#9bd5c4">Strong points:</h4>
+<p>The site’s soft colors instantly plunge visitors into the world of childhood. Everything appeals to parents&#8217; emotions, from the main visual of children on the homepage, to the use of the term &#8220;pre-loved.&#8221;</p>
+<p>This responsive site is optimized for all devices (mobile phones, tablets, computers), which is perfect for the target audience, who tends to navigate from a smartphone.</p>
+<p>The &#8220;back to top&#8221; button is a very convenient way to navigate through long pages. Adding it was a good idea. Since <a href="http://www.dimplesanddandelions.co.uk/" target="_blank">DimplesandDandelions</a> offers attractive products, they shouldn’t hesitate to feature more of them on the homepage!</p>
+<h4 style="color:#9bd5c4">Optimization strategies:</h4>
+<ul style="padding-left:30px">
+<li>
+		<strong>Customize the favicon</strong>
+	</li>
+</ul>
+<p>The favicon is one of the first impressions visitors have of your site.</p>
+<p style="color:#5b9bd5;font-style:italic">What&#8217;s a favicon?<br />
+An icon that symbolizes a website. Web browsers use this icon to display your site on the site tab, address bar and title bar, in bookmarks, etc.
+</p>
+<p>To customize your favicon:</p>
+<ol>
+<li>Go to a <a href="http://www.favicon.cc/" target="_blank">favicon generator</a>.</li>
+<li>You have two options: either design your favicon yourself, or create a square icon (in .gif, .jpeg or .png format) and import it. Use a recognizable element of your logo.<br />
+	The generator then saves your favicon in .ico format.</li>
+<li>Once your favicon has been generated, you can save it in your store’s back office, in Preferences / Themes / Icons.</li>
+</ol>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/10/2.FaviconEN-1024x513.png" alt="2.FaviconEN" width="700" height="350" class="aligncenter size-large wp-image-20791" /></p>
+<ul style="padding-left:30px">
+<li>
+		<strong>Introductory phrase and referencing tags</strong>
+	</li>
+</ul>
+<p>Sum up your store&#8217;s activity in one phrase on your homepage, so visitors know exactly what they’ll find there. For example: &#8220;Favorite children&#8217;s toys,&#8221; &#8220;Best children&#8217;s toys,&#8221; etc.</p>
+<p>As for referencing, it&#8217;s essential that the tags you entered for your store’s natural referencing (meta title, description, etc.) correspond exactly to your business. </p>
+<p>List your keywords (children&#8217;s toys, etc.) and use them to write your referencing tags.<br />
+This part can be customized in your back-office: Preferences / SEO &amp; URLs / Index.</p>
+<p><img class="aligncenter size-large wp-image-20792" alt="3.SEOEN" src="https://www.prestashop.com/blog/en/files/2015/10/3.SEOEN_-1024x371.png" width="700" height="253" /></p>
+<p>Here’s a reminder about reference tag character counts:</p>
+<p style="color:#5b9bd5;font-style:italic">Title tag: 60 characters (including spaces)<br />
+Meta Description tag: 160 (including spaces)</p>
+<ul style="padding-left:30px">
+<li>
+		<strong>Disabling the product comparison chart</strong>
+	</li>
+</ul>
+<p>If not all of your products can be compared (doll and coloring book, etc.), don&#8217;t hesitate to disable the comparison chart for your store, to avoid error messages and customer disappointment.</p>
+<p style="color:#5b9bd5;font-style:italic">To disable the product comparison chart for your store in the PrestaShop 1.6 version, go to your back-office. In Preferences / Themes, click &#8220;Advanced settings.&#8221; In the &#8220;Appearance of columns&#8221; block, search for the &#8220;Products comparison&#8221; line, and disable the active columns.</p>
+<h2 style="color:#f05881">3 tips to increase your conversion rate</h2>
+<h4 style="color:#9bd5c4">Strong points:</h4>
+<p>Free delivery as stated on the homepage provides a strong incentive to view the catalog. It’s an excellent argument that is clearly showcased!<br />
+The purchasing funnel on a single page (&#8220;one page checkout&#8221;) is also fast and clear. And having 3 different delivery options meets the needs of all your customers, from the most frugal to the most impatient.</p>
+<h4 style="color:#9bd5c4">Optimization strategies:</h4>
+<ul style="padding-left:30px">
+<li>
+		<strong>Classify the products</strong>
+	</li>
+</ul>
+<p>There are currently 5 main categories, which can be found in the menu (on every page) and also at the top of the left-hand column. General information is also duplicated: in the menu and in the left-hand column.</p>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/10/5.-Category-1024x691.png" alt="5. Category" width="700" height="472" class="aligncenter size-large wp-image-20789" /></p>
+<p>By offering faceted navigation from this column, you will help your visitors find the gift they need.</p>
+<p style="color:#5b9bd5;font-style:italic">With faceted navigation, your visitors can refine their search in just a few clicks to easily find products that meet their needs (size, color, age, style, price, etc.). This tool will help you increase your conversion rate. Find filters that correspond to your products.</p>
+<p>Faceted navigation is perfect for gift ideas. Take advantage of it! For example, offer filters to find your products by age, by gender (girl, boy, mixed), by price range, etc. There are countless examples.</p>
+<p class="text-center" style="margin: 30px 0">
+	<a href="http://addons.prestashop.com/en/510-search-filters" target="_blank" style="color:#df0067;font-size:16px;text-decoration:underline">View product filter modules</a>
+</p>
+<ul style="padding-left:30px">
+<li>
+		<strong>Optimize the product page</strong>
+	</li>
+</ul>
+<p><a href="http://www.dimplesanddandelions.co.uk/" target="_blank">DimplesandDandelions</a> displays products using high-quality visuals that really tempt visitors to place an order. However, some products could benefit from more information to help finalize the purchase. Take the example of this adorable reindeer: </p>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/10/4.-Product-1024x679.png" alt="4. Product" width="700" height="464" class="aligncenter size-large wp-image-20793" /></p>
+<p>There are several options to make it more appealing:</p>
+<ul style="padding-left:30px">
+<li>Add a visual in its context (with a child) so that visitors immediately understand the product&#8217;s function and have an idea of its size.</li>
+<li>Add the product&#8217;s dimensions and material in the detailed description.</li>
+<li>Add a video of the product.</li>
+<li>Add badges to product datasheets (e.g. &#8220;very soft,&#8221; &#8220;develops motor skills,&#8221; &#8220;ideal for outdoor play&#8221;).</li>
+</ul>
+<p class="text-center" style="margin: 30px 0">
+	<a href="http://addons.prestashop.com/en/465-badges-logos" target="_blank" style="color:#df0067;font-size:16px;text-decoration:underline">View badge and logo modules</a>
+</p>
+<ul style="padding-left:30px">
+<li>
+		<strong>Payment methods and reassurance</strong>
+	</li>
+</ul>
+<p>Currently only the PayPal logo appears in the footer, even though in the shopping cart, visitors are given the opportunity to pay for their order with a credit card on the PayPal site. This can be a deterrent for some of your visitors, who think they need a PayPal account to be able to pay. </p>
+<p>In the United Kingdom, over 88% of online buyers make their transactions with a credit card, versus almost 8% with PayPal. Don&#8217;t hesitate to appeal to this vast majority of potential customers by clearly stating that you accept card payments and also by adding a popular payment method by card in addition to payment on the PayPal platform. </p>
+<p class="text-center" style="margin: 30px 0">
+	<a href="http://addons.prestashop.com/en/482-payment-by-card-or-wallet" target="_blank" style="color:#df0067;font-size:16px;text-decoration:underline">View credit card payment modules</a>
+</p>
+<p>Good luck and happy selling as the winter holidays draw near! </p>
+<p>Read all the tips from our previous online audits:</p>
+<p><a href="https://www.prestashop.com/blog/en/website-evaluation-les-minions/">Boutique des Minions</a><br />
+<a href="https://www.prestashop.com/blog/en/store-audit-100-soccer/">Boutique Futbol100%</a></p>
+<p><em>Would you like to be randomly selected for the next online audit? Send your store&#8217;s URL and the issues you would particularly like to address (traffic, conversion, loyalty, etc.) to <a href="mailto:ecommerce-evaluation@prestashop.com">ecommerce-evaluation@prestashop.com</a></em></p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/store-audit-6-tips-optimize-sales/">Store audit – 6 tips to optimize your sales</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/store-audit-6-tips-optimize-sales/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Protecting Customer Privacy in your PrestaShop Store: Part 2</title>
+		<link>https://www.prestashop.com/blog/en/protecting-customer-privacy-prestashop-store-part-2/</link>
+		<comments>https://www.prestashop.com/blog/en/protecting-customer-privacy-prestashop-store-part-2/#comments</comments>
+		<pubDate>Thu, 22 Oct 2015 13:30:31 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20743</guid>
+		<description><![CDATA[<p>In our last post, Leah Hamilton from Terms Feed walked us through the essentials of customer privacy protection compliancy. Today, she’s going to tell us how to apply security best practices to your PrestaShop store. How to Display a Privacy Policy in your Store Once you’ve written your privacy policy, the next important thing is [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/protecting-customer-privacy-prestashop-store-part-2/">Protecting Customer Privacy in your PrestaShop Store: Part 2</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><em>In our last post, Leah Hamilton from Terms Feed walked us through the essentials of customer privacy protection compliancy. Today, she’s going to tell us how to apply security best practices to your PrestaShop store.</em><br />
+<span id="more-20743"></span></p>
+<h2 style="color:#50b0be">How to Display a Privacy Policy in your Store</h2>
+<p>Once you’ve written your privacy policy, the next important thing is to ensure that your customers can actually agree to it in a way that is legally binding. There are two main ways that you can get your customers to agree to your privacy policy: <strong>clickwrap</strong> and <strong>browsewrap</strong>.</p>
+<p><strong>Browsewrap</strong> is used most often:  the Privacy Policy and Terms of Use are displayed in small links at the bottom of the page. Here’s an example from USAToday:</p>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/10/usa-today-footer.png" alt="usa-today-footer" width="954" height="357" class="aligncenter size-full wp-image-20744" /></p>
+<p><em>Image: USA Today Footer (<a href="http://www.usatoday.com/" target="_blank">http://www.usatoday.com/</a>)</em></p>
+<p>The browsewrap method is not legally binding, as the customer is just <em>presumed</em> to have read the policy and agreed to it. A better method to ensure that you get agreement is clickwrap.</p>
+<p><strong>Clickwrap</strong> requires the customer to click “I agree” in some way, whether it’s a button or tick box. Here’s an example from the PrestaShop One Step Checkout. You can see the link to the Terms of Service at the top of the Delivery Methods column:</p>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/10/ps-one-step-checkout.png" alt="ps-one-step-checkout" width="901" height="725" class="aligncenter size-full wp-image-20747" /></p>
+<p><em>Image: PrestaShop One Step Checkout</em></p>
+<p>You can see that the customer has to click “I agree” to the Terms of Service before they can proceed with the purchase. There is also a link to the policy visibly displayed, so it is easy for them to read. <strong>This method is generally legally binding, as it’s easy to see that the customer has <em>expressly</em> agreed.</strong></p>
+<p>PrestaShop has a number of modules that you can use to ensure that you get agreement in other ways, such as the <a href="http://addons.prestashop.com/en/front-office-features-prestashop-modules/8123-data-privacy-extended-data-protection-law-lopd.html" target="_blank">Data Privacy Extended Module</a>. This module allows you to display a popup when your user accesses your store, and uses a tick box to get agreement. Here’s an example of what this might look like:</p>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/10/ps-data-privacy.jpg" alt="ps-data-privacy" width="1000" height="1000" class="aligncenter size-full wp-image-20746" /></p>
+<p><em>Image: PrestaShop Data Privacy Extended Module (<a href="http://addons.prestashop.com/en/front-office-features-prestashop-modules/8123-data-privacy-extended-data-protection-law-lopd.html" target="_blank">http://addons.prestashop.com/en/front-office-features-prestashop-modules/8123-data-privacy-extended-data-protection-law-lopd.html</a>)</em></p>
+<p>Now let’s take a look at some of the other ways in which you can protect customer privacy in your PrestaShop store.</p>
+<h2 style="color:#50b0be">Security Measures</h2>
+<p>The other side of the coin in protecting customer privacy in your store is ensuring that you have good security measures in place. </p>
+<h4 style="color:#50b0be">SSL</h4>
+<p>The first step is to ensure that your website is secure when the customer accesses it with their browser. You can do this by using SSL. SSL is a way for computers to encrypt messages that they send to other computers. On your PrestaShop store this means it allows the store to communicate with the customer’s browser in encrypted messages, which prevents other people from ‘listening in’ and extracting data. This ensures that any private customer information passed between the customer and your store is kept safe.</p>
+<p><strong>PrestaShop has a <a href="https://www.prestashop.com/blog/en/guest-blogger-series-prestashop-ssl-installation-troubleshooting/">great tutorial</a> on how to obtain an SSL certificate, check that it’s working, and troubleshoot any problems. </strong></p>
+<h4 style="color:#50b0be">Internal Content Management</h4>
+<p>The next thing you can do to ensure your customers’ data is kept safe is to only collect what you need. For example, if you are only going to contact your customers by email and send items to their physical address, don’t also collect their business address and phone number. </p>
+<p>Then, ensure that anyone dealing with customers’ private information is doing so on a “need to know” basis only. This will keep information secure and leave fewer opportunities for information to be lost or leaked.</p>
+<p>PrestaShop also has a number of content management modules that you can use to streamline your content management processes. For example, you can use <a href="http://addons.prestashop.com/en/content-management/7152-custom-fields.html" target="_blank">form generators</a> to create custom fields to ensure that you collect only the most relevant information for your purposes, or use the <a href="http://addons.prestashop.com/en/content-management/4514-product-questions.html" target="_blank">product questions module</a> to allow customers to ask questions in your store directly, rather than having to contact you and share their personal information unnecessarily.</p>
+<h4 style="color:#50b0be">Cloud Storage</h4>
+<p>The next thing you need to do is ensure that you choose a reputable cloud storage provider for when you are storing your customer data.</p>
+<p>With PrestaShop, you can create a <a href="http://doc.prestashop.com/pages/viewpage.action?pageId=25198687" target="_blank">PrestaShop cloud</a> store that already includes hosting, management tools, and administration panels. It allows you to start up your store with a reputable host provider and to manage your store with the PrestaShop cloud back-office. The back office has information on orders, customers, shipping, pricing, and stats, among other things. Here’s an example of what the back office looks like:</p>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/10/ps-cloud-bo-1024x529.png" alt="ps-cloud-bo" width="700" height="361" class="aligncenter size-large wp-image-20745" /></p>
+<p><em>Image: PrestaShop Cloud Back Office (<a href="http://doc.prestashop.com/display/CLOUD/Managing+your+PrestaShop+Cloud+store" target="_blank">http://doc.prestashop.com/display/CLOUD/Managing+your+PrestaShop+Cloud+store</a>)</em></p>
+<p>If you don’t want to use the PrestaShop Cloud, you <a href="http://doc.prestashop.com/display/CLOUD/Differences+between+PrestaShop+Cloud+and+the+self-hosted+version" target="_blank">can self-host your store</a> and manage your data backups yourself or through a third party. <strong>As noted above, if you do this ensure that you choose a reputable host and storage provider.</strong></p>
+<h2 style="color:#50b0be">Conclusion</h2>
+<p>With PrestaShop, it’s easy to set up a store that is safe and secure for your customers, which can help your business to build trust and thrive. By setting up a comprehensive privacy policy, ensuring that your customers agree to it, and putting strong security measures in place, you will be able to protect your customers’ privacy and keep them coming back!</p>
+<p>How do you protect your customers’ privacy? Tell us in the comments! </p>
+<p>If you don’t currently have a Privacy Policy for your ecommerce store, <a href="https://termsfeed.com/" target="_blank">visit TermsFeed to create one</a>. TermsFeed allows you to create custom legal agreements online, for your ecommerce website or app. The agreements are completely free, but TermsFeed also offers premium options if you wish to use them. TermsFeed’s agreements are drafted by professional lawyers from around the world, and each agreement goes through a rigorous quality certification process. Check out their <a href="https://termsfeed.com/reviews" target="_blank">testimonials</a>!</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/protecting-customer-privacy-prestashop-store-part-2/">Protecting Customer Privacy in your PrestaShop Store: Part 2</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/protecting-customer-privacy-prestashop-store-part-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Glennys Castro puts her untraditional spin on art</title>
+		<link>https://www.prestashop.com/blog/en/glennys-castro-puts-untraditional-spin-art/</link>
+		<comments>https://www.prestashop.com/blog/en/glennys-castro-puts-untraditional-spin-art/#comments</comments>
+		<pubDate>Mon, 19 Oct 2015 15:36:48 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Success Stories]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20780</guid>
+		<description><![CDATA[<p>Aspiring artists know that the first sign of having “made it” is getting noticed by an art gallery. It’s a medical student’s equivalent of receiving their coat or a lawyer passing the bar. Everything leading up to that point is about cultivating a unique design and wondering if this career choice was a sustainable one. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/glennys-castro-puts-untraditional-spin-art/">Glennys Castro puts her untraditional spin on art</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Aspiring artists know that the first sign of having “made it” is getting noticed by an art gallery. It’s a medical student’s equivalent of receiving their coat or a lawyer passing the bar. Everything leading up to that point is about cultivating a unique design and wondering if this career choice was a sustainable one. However, getting into a gallery isn’t the only way to succeed. In today’s success story, we share how PrestaShop merchant Glennys created her successful career as an artist-turned-entrepreneur.<br />
+<span id="more-20780"></span></p>
+<p>Glennys has been developing her style and cultivating a unique approach to creating art since she began painting in the 1990s. Inspired by her surroundings, Glennys creates pieces that evoke fond memories of summer vacations and the abstract interpretations of the beauty she sees in nature. She presented complete portfolios of her art but was criticized for her unique, eclectic style.</p>
+<p>It was an uphill battle that turned out to be a blessing in disguise. Galleries ask for a 50% commission on all sales, which would have forced Glennys to price her pieces much higher to allow her to make a living off of her art. Glennys soon realized that selling art through a gallery was not meant for everyone, especially her.</p>
+<p><img class="aligncenter size-full wp-image-20784" alt="GlennysGallery3" src="https://www.prestashop.com/blog/en/files/2015/10/GlennysGallery3.png" width="767" height="519" /></p>
+<p><strong><a href="http://glennyscastro.gallery/index.php?id_product=161&amp;controller=product&amp;id_lang=1">Surf and Turf</a> &#8211; 40” X 60” Mixed Media on Canvas $2,160</strong></p>
+<h2 style="color: #3f4d67;">Becoming an Entrepreneur</h2>
+<p>Without a gallery to display her work, Glennys had only herself to rely on for promotion. She networked at her children’s schools and sports practices, even at restaurants. By taking the initiative in her community, Glennys established a name for herself on her home island of Puerto Rico. Thanks to her new connections, she had the opportunity to design t-shirts and jewelry and collaborate on fashion projects. Glennys realized that she was a natural entrepreneur. It’s that realization that made her decide to display her art by herself, after all she was already doing all the promoting. She quickly found that it would be too expensive for her to maintain a traditional gallery, but what about a digital gallery?</p>
+<p><img class="aligncenter size-full wp-image-20783" alt="GlennysGallery2" src="https://www.prestashop.com/blog/en/files/2015/10/GlennysGallery2.png" width="800" height="250" /></p>
+<h2 style="color: #3f4d67;">Launching an online shop</h2>
+<p>Glennys reached out to a friend who was already running an online shop powered by PrestaShop. “Her lack of technical abilities reassured me that I’ll be able to use the platform too,” jokes Glennys. “Once we decided on the platform, I worked with a local freelancer, Rey Castillo, to put together my website. He held my hand through the entire website set up, ensuring that all my questions (no matter how basic) were answered. His top recommended modules were: Google Analytics, PayPal USA and the visits and visitors dashboard. Once the basic shop was set up, it was easy to add products and improve the SEO by filling in the Meta information.”</p>
+<h2 style="color: #3f4d67;">Making the first sale</h2>
+<p>After the digital gallery had launched, Glennys promoted the “show” through all her offline channels. She then turned to online marketing by starting her Facebook page, then launching a blog. An online blog let her express in words both her personal journey and the story of her art. Her honest posts helped her grow her audience both locally and internationally, online. More people from the community started getting to know Glennys and her art. Customers started popping by her studio to pick up art and Glennys paintings were finally finding homes. Her first online sale came through just three months after the website launched. She shares, “It was an amazing feeling to have the online gallery finally succeed not just as an online shop, but also as a gallery for local shoppers.”</p>
+<h2 style="color: #3f4d67;">Future Plans</h2>
+<p>Although things have started falling into place, Glennys has not slowed down. She regularly adds to her inventory and develops new collections to keep her website fresh. She also posts regularly on her blog and social media to keep her customers engaged and updated on her latest projects.</p>
+<p>When asked what the best part of launching an online shop was, Glennys shared: “Launching my online shop allows me to be my own boss, a salesperson, an entrepreneur, a teacher, a mom, a wife and, of course, the artist behind each and every piece in the gallery.” <a class="twitter-share-button" href="https://www.twitter.com/intent/tweet?text=%22Launching%20my%20online%20shop%20allows%20me%20to%20be%20my%20own%20boss%2C%20a%20salesperson%2C%20entrepreneur%2C%20teacher%2C%20%20mom..%22&amp;via=PrestaShop">Tweet_Button</a></p>
+<p>What could you become by launching your own shop? Find out by getting started and opening your <a href="https://www.prestashop.com/en/create-your-online-store">free online store</a>. Want more inspiration? Check out our previous <a href="https://www.prestashop.com/blog/en/category/ecommerce-success-stories/">success stories</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/glennys-castro-puts-untraditional-spin-art/">Glennys Castro puts her untraditional spin on art</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/glennys-castro-puts-untraditional-spin-art/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Protecting Customer Privacy in your PrestaShop Store: Part 1</title>
+		<link>https://www.prestashop.com/blog/en/protecting-customer-privacy-prestashop-store-part-1/</link>
+		<comments>https://www.prestashop.com/blog/en/protecting-customer-privacy-prestashop-store-part-1/#comments</comments>
+		<pubDate>Thu, 15 Oct 2015 13:30:28 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20739</guid>
+		<description><![CDATA[<p>Today we welcome back Leah Hamilton, from Terms Feed, for the first of a two-part series dedicated to customer privacy protection. Protecting customer privacy in your PrestaShop store is paramount: without establishing key protections for your customers, you won’t be able to build customer trust, and without customer trust your business won’t grow. There are [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/protecting-customer-privacy-prestashop-store-part-1/">Protecting Customer Privacy in your PrestaShop Store: Part 1</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><em>Today we welcome back Leah Hamilton, from Terms Feed, for the first of a two-part series dedicated to customer privacy protection.</em></p>
+<p>Protecting customer privacy in your PrestaShop store is paramount: without establishing key protections for your customers, you won’t be able to build customer trust, and without customer trust your business won’t grow. There are a number of simple ways that you can increase privacy measures and ensure that your PrestaShop store is safe and secure for your customers and visitors. Let’s get started!<br />
+<span id="more-20739"></span></p>
+<h2 style="color:#50b0be">Privacy Policy</h2>
+<p>The first thing you need to set up is a good privacy policy. But what makes a good privacy policy?</p>
+<p>The primary factor that determines what goes into your privacy policy is what your local data protection laws require. Let’s take a look at two major jurisdictions, the US and the EU. </p>
+<p><strong>The US has no overarching data privacy law. This may make it seem like it’s easy to comply with the law (because there is none!), but there are a few pitfalls to be aware of.</strong></p>
+<p>The US has three main pieces of legislation that cover data protection and privacy in more discrete areas: HIPAA, COPPA, and OPPA. HIPAA is the <a href="https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act#Privacy_Rule" target="_blank">Health Insurance Portability and Accountability Act</a>; COPPA is the <a href="https://en.wikipedia.org/wiki/Children%27s_Online_Privacy_Protection_Act" target="_blank">Children’s Online Privacy Protection Act</a>; and OPPA is the <a href="https://en.wikipedia.org/wiki/Online_Privacy_Protection_Act" target="_blank">California Online Privacy Protection Act</a>. OPPA is the most important piece of legislation to comply with in the US, unless your store specifically targets children (in which case you also need to comply with COPPA).</p>
+<p>OPPA states that operators of commercial websites that collect the personal information of California residents must post a distinct and easy-to-find link to the website’s privacy policy. The policy must outline:</p>
+<ul style="padding-left: 30px">
+<li>the kind of information gathered by the website;</li>
+<li>how the information may be shared with other parties;</li>
+<li>the process the user can use to review and make changes to their stored information; and</li>
+<li>the policy’s effective date and any changes made since.</li>
+</ul>
+<p><strong>Remember that OPPA applies to all California residents, so while you may not be based in California, if your customers are, then you will need to ensure that your store is compliant.</strong></p>
+<p>Many websites will have a dedicated California Privacy Notice, while others will include a clause within their overarching Privacy Policy. Here’s an example of a California Privacy Notice within a Privacy Policy, from NVIDIA:</p>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/10/nvidia-privacy-policy.png" alt="nvidia-privacy-policy" width="671" height="497" class="aligncenter size-full wp-image-20740" /></p>
+<p><em>Image: NVIDIA Privacy Policy (<a href="http://www.nvidia.com/object/privacy_policy.html" target="_blank">http://www.nvidia.com/object/privacy_policy.html</a>)</em></p>
+<p>The Privacy Notice above requests that users write in to view the information, but the Privacy Policy itself on NVIDIA’s website covers the kinds of information gathered by the website and how the information may be shared with other parties.</p>
+<p><strong>Now let’s take a look at some of the EU laws.</strong></p>
+<p>The law currently in place in the EU is called the <a href="https://en.wikipedia.org/wiki/Data_Protection_Directive" target="_blank">EU Data Protection Directive 1995</a>. This directive sets out a number of data collection principles. These principles are:</p>
+<ul style="padding-left: 30px">
+<li>Customers must be notified when you collect their data;</li>
+<li>Personal data should only be collected for specific (and lawful) purposes;</li>
+<li>The data collected should be adequate and relevant for the purpose;</li>
+<li>Personal data should be accurate and kept up to date;</li>
+<li>Personal data should not be kept for longer than necessary;</li>
+<li>Appropriate security measures should be put in place;</li>
+<li>Personal data must not be transferred to a country or territory outside the European Economic Area unless that country or territory also ensures an adequate level of protection for that data.</li>
+</ul>
+<p>However, a new data protection regulation is coming into force in the EU. This is called the <strong>EU Data Protection Regulation</strong>. This Regulation will cover the whole EU region, replacing the patchwork of rules that exists in each individual country. The purpose is to make things easier for businesses to operate in the EU region without having to understand and comply with different sets of local laws.</p>
+<p>This regulation will have much broader reach than just the EU &#8211; it will apply to anyone who deals with the private data of EU citizens. This means that US-based PrestaShop stores with EU customers may still need to comply with this regulation. The finer details of the regulation are still being worked out, but if you think this may apply to you it’s definitely something to look into further so that you can ensure you are compliant. </p>
+<p><strong>In the meantime, if you are based in the EU, ensure that your store complies with the data protection principles set out above.</strong></p>
+<p>If you don’t currently have a Privacy Policy for your ecommerce store, <a href="https://termsfeed.com/" target="_blank">visit TermsFeed to create one</a>. TermsFeed allows you to create custom legal agreements online, for your ecommerce website or app. The agreements are completely free, but TermsFeed also offers premium options if you wish to use them. TermsFeed’s agreements are drafted by professional lawyers from around the world, and each agreement goes through a rigorous quality certification process. Check out their <a href="https://termsfeed.com/reviews" target="_blank">testimonials</a>!</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/protecting-customer-privacy-prestashop-store-part-1/">Protecting Customer Privacy in your PrestaShop Store: Part 1</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/protecting-customer-privacy-prestashop-store-part-1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Do you have what it takes to apply to the Integration Fund and get your share of the $1 million?</title>
+		<link>https://www.prestashop.com/blog/en/takes-apply-integration-fund-get-share-1-million/</link>
+		<comments>https://www.prestashop.com/blog/en/takes-apply-integration-fund-get-share-1-million/#comments</comments>
+		<pubDate>Wed, 14 Oct 2015 08:30:54 +0000</pubDate>
+		<dc:creator><![CDATA[Margaux Choplin]]></dc:creator>
+				<category><![CDATA[PrestaShop News]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20760</guid>
+		<description><![CDATA[<p>Still living with your parents? It’s time to pack up and apply to the Integration Fund! The launch of the $1 million Integration Fund marked the start of special efforts made on offering local modules to PrestaShop merchants on the Addons Marketplace. A few weeks later, 300+ applications have been received, 40+ modules are in [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/takes-apply-integration-fund-get-share-1-million/">Do you have what it takes to apply to the Integration Fund and get your share of the $1 million?</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Still living with your parents? It’s time to pack up and apply to the Integration Fund!</p>
+<p>The <a href="https://www.prestashop.com/blog/en/prestashop-launches-1000000-integration-fund-community/">launch</a> of the <strong>$1 million Integration Fund</strong> marked the start of special efforts made on offering local modules to PrestaShop merchants on the Addons Marketplace.</p>
+<p>A few weeks later, <strong>300+</strong> applications have been received, <strong>40+</strong> modules are in the making, already or soon allowing e-shops on all continents to be more adapted than ever to their customers!</p>
+<p>This is great news, and we are expecting <strong>a lot of additional local modules</strong> to offer a full catalogue to our merchants on PrestaShop Addons.</p>
+<p><span id="more-20760"></span></p>
+<h2 style="color: #cc4357">Boost your imagination with these examples of modules selected by the Integration Fund</h2>
+<p><img class="aligncenter size-large wp-image-20763" alt="EN-Ex" src="https://www.prestashop.com/blog/en/files/2015/10/EN-Ex-1024x517.png" width="700" height="353" /></p>
+<p><strong>Would you like to build one? Especially a regional payment gateway, shipping carrier, or marketplace connector?</strong></p>
+<p><a href="https://addons.prestashop.com/en/integration-fund" target="_blank">Apply and convince us to select your idea!</a></p>
+<p>Indeed, we will be happy to financially support you whether your module is already developed or is still just an idea. If you are selected, your project will get funded and will receive special visibility in the countries it targets.</p>
+<p>The Integration Funds is looking for developers with a passion for ecommerce, who are experts of their local ecosystem and are willing to share this knowledge through module development in <span style="text-decoration: underline">order to provide merchants with be the best ecommerce solution in their region</span>.</p>
+<h2 style="color: #cc4357">3 tips to help you submit your module to the Integration Fund like a pro</h2>
+<p>These 3 pieces of advice will give you the best chances to be selected to the Integration Fund.</p>
+<h4 style="color: #79c6e4">1. Focus on the relevant countries</h4>
+<p>We’ll consider your module as local if it does not fit to merchants worldwide. You need to give us the precise country or the precise list of countries where your module will be applicable.</p>
+<h4 style="color: #79c6e4">2. Pick the right category</h4>
+<p>If your module is relevant for a limited number of countries, that also means it concerns a local issue for merchants, which should be one of the following:</p>
+<p><img class="aligncenter size-full wp-image-20762" alt="EN-Cat" src="https://www.prestashop.com/blog/en/files/2015/10/EN-Cat.png" width="1024" height="313" /></p>
+<h4 style="color: #79c6e4">3. Let us get your idea</h4>
+<p>Let’s discuss to see what local modules are worth developing! To do so, please submit your <a href="https://addons.prestashop.com/en/integration-fund" target="_blank">form</a> in English or French only, otherwise we will not understand each other <img src="https://www.prestashop.com/blog/en/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> </p>
+<p><img class="aligncenter size-full wp-image-20765" alt="star_wars" src="https://www.prestashop.com/blog/en/files/2015/10/star_wars.png" width="481" height="309" /></p>
+<p>Do not forget that PrestaShop Community is counting more than 800,000 wonderful motivated members and it keeps growing every day! Your idea might be about to be submitted…</p>
+<p>We are waiting for your ideas!</p>
+<p>#1million4devs</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/takes-apply-integration-fund-get-share-1-million/">Do you have what it takes to apply to the Integration Fund and get your share of the $1 million?</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/takes-apply-integration-fund-get-share-1-million/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

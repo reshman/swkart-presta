@@ -1,0 +1,1 @@
+  {$themesdev.td_hfooter_content|html_entity_decode}
